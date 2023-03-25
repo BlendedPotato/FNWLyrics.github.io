@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Page Title</title>
+	<title>Gabriel Connor - Project Profile</title>
 </head>
 <body>
 
